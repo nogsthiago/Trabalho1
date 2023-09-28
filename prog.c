@@ -4,7 +4,7 @@
 
 double* inverte(double* num);
 double* decrescente(double* num);
-double* inverte(double* num);
+double* crescente(double* num);
 
 
 #define N 10
